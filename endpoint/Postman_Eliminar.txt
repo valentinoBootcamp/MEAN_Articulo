@@ -1,0 +1,23 @@
+
+
+ELIMINAR
+
+
+http://localhost:4000/articulo/editar/601466d7620988132099e1e0
+
+
+
+{
+    "mensaje": "EL ARTICULO FUE ELIMINADO",
+    "articuloEliminado": {
+        "_id": "601466d7620988132099e1e0",
+        "nombre": "PELOTA NUEVA",
+        "categoria": "ELECTRONICA NUEVA",
+        "precio": 350,
+        "imagen": "https://d26lpennugtm8s.cloudfront.net/stores/144/702/products/soccer-ball-21-2866b54acb474d34ab15569017783473-1024-1024.png",
+        "createdAt": "2021-01-29T19:49:43.727Z",
+        "updatedAt": "2021-01-29T19:57:00.484Z",
+        "__v": 0
+    }
+}
+

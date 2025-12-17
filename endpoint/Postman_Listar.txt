@@ -1,0 +1,38 @@
+
+
+GET
+
+
+http://localhost:4000/articulo/listar
+
+[]
+
+
+
+
+
+
+
+
+[
+    {
+        "_id": "601466d7620988132099e1e0",
+        "nombre": "PELOTA",
+        "categoria": "ELECTRONICA",
+        "precio": 350,
+        "imagen": "https://d26lpennugtm8s.cloudfront.net/stores/144/702/products/soccer-ball-21-2866b54acb474d34ab15569017783473-1024-1024.png",
+        "createdAt": "2021-01-29T19:49:43.727Z",
+        "updatedAt": "2021-01-29T19:49:43.727Z",
+        "__v": 0
+    },
+    {
+        "_id": "60146735620988132099e1e1",
+        "nombre": "COMPUTADORA",
+        "categoria": "ELECTRONICA",
+        "precio": 55000,
+        "imagen": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/8/v/8vv82la_c.png",
+        "createdAt": "2021-01-29T19:51:17.997Z",
+        "updatedAt": "2021-01-29T19:51:17.997Z",
+        "__v": 0
+    }
+]
